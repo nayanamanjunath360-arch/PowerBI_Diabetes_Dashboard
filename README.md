@@ -28,4 +28,4 @@ Delivered actionable insights on patient health and risk segmentation, empowerin
 
 ---
 
-📎 **GitHub Repository Link:** [Your GitHub Repository URL Here]
+📎 **GitHub Repository Link:** [https://github.com/nayanamanjunath360-arch/PowerBI_Diabetes_Dashboard]
