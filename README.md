@@ -21,7 +21,7 @@ An interactive Power BI dashboard built to analyze patient health data and ident
 - `Dashboard_Screenshot.png` – Preview of the Power BI Dashboard  
 
 ## 🌐 Dashboard Preview
-![Diabetes Health Dashboard Screenshot](Dashboard_Screenshot.png)
+Dashboard_Screenshot (15).png
 
 ## 📈 Outcome
 Delivered actionable insights on patient health and risk segmentation, empowering healthcare professionals with real-time analytics for better decision-making.  
